@@ -14,7 +14,18 @@ Don't forget to hit the :star: if you like this repo.
 #### Dataset: Analytics
 
 ## Question 3 (a)
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Pre-Requisites
+```python
+django-admin startproject AAquestion3
+python manage.py startapp AAquestion3app
+```
+![image](https://github.com/drshahizan/SECP3843/assets/120616074/611c2808-292e-4b6f-abf0-b57d849e8dc7)
+
+Next, we create database for this project in phpMyAdmin
+[![image](https://github.com/drshahizan/SECP3843/assets/120616074/99d1f476-0014-4817-9e8f-c452ef418cd5)]
+This the final look of the database after the project
+
+Next, we add our all to the installed apps defination in settings.py
 
 ## Question 3 (b)
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
